@@ -1,3 +1,5 @@
+#Escreva um programa que receba dois nomes de usuário e os combine de maneira criativa para formar um novo nome.
+
 def combinar (nome1, nome2):
 
     metade_nome1 = nome1[:len(nome1)//2]

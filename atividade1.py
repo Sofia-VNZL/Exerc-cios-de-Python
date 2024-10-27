@@ -1,3 +1,5 @@
+#Crie um programa que peça ao usuário para inserir dois números e, em seguida, calcule e exiba a soma, subtração, multiplicação, divisão e divisão inteira desses números.
+
 def calcular_operacoes(num1, num2):
     soma = num1 + num2
     subtracao = num1 - num2
